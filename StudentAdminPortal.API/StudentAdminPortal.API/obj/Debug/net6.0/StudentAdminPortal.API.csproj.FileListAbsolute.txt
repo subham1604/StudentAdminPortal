@@ -1,0 +1,166 @@
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\appsettings.Development.json
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\appsettings.json
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.exe
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.deps.json
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.runtimeconfig.json
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.pdb
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Azure.Core.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Humanizer.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.csproj.AssemblyReference.cache
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.AssemblyInfoInputs.cache
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.AssemblyInfo.cs
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.csproj.CoreCompileInputs.cache
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.MvcApplicationPartsAssemblyInfo.cs
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.MvcApplicationPartsAssemblyInfo.cache
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\scopedcss\bundle\StudentAdminPortal.API.styles.css
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.csproj.CopyComplete
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\refint\StudentAdminPortal.API.dll
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.pdb
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.genruntimeconfig.cache
+C:\PES Training\StudentAdmin Project\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\ref\StudentAdminPortal.API.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\appsettings.Development.json
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\appsettings.json
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.exe
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.deps.json
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.runtimeconfig.json
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\StudentAdminPortal.API.pdb
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Azure.Core.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Humanizer.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.csproj.AssemblyReference.cache
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.AssemblyInfoInputs.cache
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.AssemblyInfo.cs
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.csproj.CoreCompileInputs.cache
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.MvcApplicationPartsAssemblyInfo.cs
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.MvcApplicationPartsAssemblyInfo.cache
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\scopedcss\bundle\StudentAdminPortal.API.styles.css
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.csproj.CopyComplete
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\refint\StudentAdminPortal.API.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.pdb
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\StudentAdminPortal.API.genruntimeconfig.cache
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\obj\Debug\net6.0\ref\StudentAdminPortal.API.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\AutoMapper.dll
+C:\PES Training\StudentAdminPortal\StudentAdminPortal.API\StudentAdminPortal.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
